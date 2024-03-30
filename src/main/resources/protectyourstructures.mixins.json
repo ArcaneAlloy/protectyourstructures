@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.khajiitos.protectyourstructures.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "protectyourstructures.refmap.json",
+  "client": [
+    "BlockBehaviourMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
